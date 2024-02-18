@@ -49,7 +49,7 @@
   }
 }
 
-*,*::before,*::after{box-sizing:border-box}
+*,*::before,*::after{box-sizing:border-box;-webkit-font-smoothing: antialiased}
 
 html {
     -webkit-tap-highlight-color: transparent;
